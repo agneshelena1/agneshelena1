@@ -1,5 +1,7 @@
 # Sobre Mim
 - 👋 Olá, meu nome é  @agneshelena1
+- Meu email de contrarto é ferreira.agnes@escola.pr.gov.br
+- Eu estou aprendendo a programar
 
 
 <!---
